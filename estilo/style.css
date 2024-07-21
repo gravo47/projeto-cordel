@@ -54,7 +54,7 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--fonte3);
-    font-size: 3.2vw;
+    font-size: 4vw;
 }
 
 section > p {
@@ -94,7 +94,7 @@ section#img02 {
 footer{
     background-color: black;
     color: white;
-    padding: 6px;
+    padding: 8px;
     text-align: center;
-    font-size: 2vw;
+    font-size: 3vw;
 }
